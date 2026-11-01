@@ -12,7 +12,6 @@ Fixes for publicly reported issues in open-source projects:
 - [adam-rms/adam-rms#1055](https://github.com/adam-rms/adam-rms/pull/1055) (open): escape audit log action data to prevent stored XSS in the server audit log.
 - [UpCloudLtd/upcloud-csi#137](https://github.com/UpCloudLtd/upcloud-csi/pull/137) (open): build with Go 1.26.10 to pick up the crypto/x509 fix for CVE-2026-111943.
 - [Koenkk/zigbee2mqtt#33545](https://github.com/Koenkk/zigbee2mqtt/pull/33545) (open): restrict device icon uploads to image extensions so the file can't be written outside `device_icons`.
-- [memgraph/ai-toolkit#652](https://github.com/memgraph/ai-toolkit/pull/652) (open): bump lightrag-hku to 1.5.5, which fixes an SSRF in markdown image download, and update the Memgraph storage adapter for its new API.
 
 ## Projects
 
