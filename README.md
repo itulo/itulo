@@ -16,6 +16,13 @@ Fixes for publicly reported issues in open-source projects:
 - [assimp/assimp#7027](https://github.com/assimp/assimp/pull/7027) (open): reject glTF external buffer and image URIs that leave the asset directory.
 - [thoas/picfit#240](https://github.com/thoas/picfit/pull/240) (open): block private addresses when fetching user-supplied URLs.
 - [bdecentgmbh/moodle-format_designer#80](https://github.com/bdecentgmbh/moodle-format_designer/pull/80) (open): escape stored custom activity titles and profile fields.
+- [open-gsd/gsd-core#6377](https://github.com/open-gsd/gsd-core/pull/6377) (open): confine MCP state read/write tools to the project's `.planning/` folder.
+- [nopSolutions/nopCommerce#8478](https://github.com/nopSolutions/nopCommerce/pull/8478) (open): keep favicon and app-icon uploads inside the icons folder.
+- [AtalayaLabs/OxiCloud#946](https://github.com/AtalayaLabs/OxiCloud/pull/946) (open): treat uploaded XML types as scriptable and apply the same XSS headers on WebDAV ranged downloads.
+- [e-m-b-a/emba#2202](https://github.com/e-m-b-a/emba/pull/2202) (open): stop interpolating firmware file names into the S15 radare2 command.
+- [pollinations/pollinations#20348](https://github.com/pollinations/pollinations/pull/20348) (open): refuse trailing-dot localhost media URLs and follow redirects only when asked.
+- [cot-rs/cot#751](https://github.com/cot-rs/cot/pull/751) (open): upgrade lettre to 0.11.24 to fix SMTP command injection (RUSTSEC-2026-0561).
+- [exein-io/pulsar#467](https://github.com/exein-io/pulsar/pull/467) (open): upgrade lettre to 0.11.24 to fix SMTP command injection (RUSTSEC-2026-0561).
 
 ## Projects
 
